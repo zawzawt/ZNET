@@ -1,1 +1,44 @@
 
+{
+//The version is for updates. If there is an update, the number must be changed to be greater than before.
+"Version":"1.1",
+// Link to update server
+"Url":"https://github.com/zawzawt/ZNET/raw/main/speyvpn.zip" ,
+"Changelog":"
+Update Date (17/06/2023)
+
+The file has been updated to include fast common servers
+
+
+Welcome Thai.SimFree
+
+
+TRUE.Nopro.Edit
+DTAC.Nopro.Edit
+
+ယခု appအား သင္ၾကားျပသေပးေသာ
+သင္ဆရာျမင္ဆရာ ဆရာအားလုံးကို
+ေက်းဇူးတင္ပါသည္
+ထိုင္းႏိုင္ငံ အြန္လိုင္းမွန္သမ်ွ
+စိက္ႀကိဳက္အသုံးျပဳႏိုင္သည္
+ဆင္းကဒ္သက္တမ္းရွိရင္
+ရပါၿပီစမက္ရွိရန္မလိုပါ
+
+
+🎁🎁MG ZAW THAILAND🎁🎁
+ 
+",
+ 
+ 
+ 
+ 
+ 
+ 
+// don't mess below
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
