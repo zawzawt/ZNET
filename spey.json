@@ -1,11 +1,11 @@
 
 {
 //The version is for updates. If there is an update, the number must be changed to be greater than before.
-"Version":"1.1",
+"Version":"1.2",
 // Link to update server
 "Url":"https://github.com/zawzawt/ZNET/raw/main/speyvpn.zip" ,
 "Changelog":"
-Update Date (17/06/2023)
+Update Date (29/06/2023)
 
 The file has been updated to include fast common servers
 
