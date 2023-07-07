@@ -2,24 +2,97 @@
    "files": [    
 
 
-,
+
 {
          "name": "TH-VIP-DTAC-GAMES01",
-         "url": "https://raw.githubusercontent.com/zawzawt/ZNET/main/TH_DTAC1.ovpn"
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES11.ovpn"
       }
-
-        
+,
+{
+         "name": "TH-VIP-DTAC-GAMES02",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC01.ovpn"
+      }
+,
+{
+         "name": "TH-VIP-DTAC-GAMES03",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE0-NET03.ovpn"
+      }
+,
+{
+         "name": "TH-VIP-DTAC-GAMES04",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC04.ovpn"
+      }
+,
+{
+         "name": "TH-VIP-DTAC-GAMES05",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/5.ovpn"
+      }   
+,
+{
+         "name": "TH-VIP-DTAC-GAMES06",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC09.ovpn"
+      }         
+,
+{
+         "name": "TH-VIP-DTAC-GAMES07",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC07.ovpn"
+      }   
+ ,
+{
+         "name": "TH-VIP-DTAC-GAMES08",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/SG-VIP-DTAC888.ovpn"
+      }            
+,
+{
+         "name": "TH-VIP-True-GAMES01",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES11.ovpn"
+      }
+,
+{
+         "name": "TH-VIP-True-GAMES02",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC01.ovpn"
+      }
+,
+{
+         "name": "TH-VIP-True-GAMES03",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE0-NET03.ovpn"
+      }   
+,
+{
+         "name": "TH-VIP-True-GAMES04",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC04.ovpn"
+      }
+,      
+{
+         "name": "TH-VIP-True-GAMES05",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/5.ovpn"
+      }   
+ ,      
+ {
+         "name": "TH-VIP-True-GAMES06",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE09.ovpn"
+      }    
+ ,
+{
+         "name": "TH-VIP-True-GAMES07",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC07.ovpn"
+      }             
+ ,
+{
+         "name": "TH-VIP-True-GAMES08",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/SG-VIP-DTAC888.ovpn"
+      }        
       
       
      
    ],
 "message":"
 ေႏြေထြးစြာႀကိဳဆိုပါ၏
-Z.M.S VIPဝန္ေဆာင္မွု
+KSO VIPဝန္ေဆာင္မွု
 အသုံးျပဳရနိုင္ေသာ ဆင္းကဒ္မ်ား
 ထူးမူ …ဒီတက္ မ်ားျဖစ္ပါတယ္
 🤩🤩တစ္လ💰50ဘတ္ပါ
-\n\nFb: Z.M.S",
+\n\nFb: Kyaw Soe Oo",
 "title":"ဖိုင္အသစ္အပ္ဒိတ္ပါ" ,
-   "version":3
+   "version":2
 }
